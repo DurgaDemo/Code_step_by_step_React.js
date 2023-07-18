@@ -1,0 +1,37 @@
+Vertual DOM
+------------
+->React uses vertual DOM
+->it's a copy of a real dom
+-> Vertual dom updates required list only
+
+Component
+----------
+->Function Component
+->Class Component
+->HOC(Higher Order Component)
+->Pure Component
+->Controlled Component
+->UnControlled Component
+
+jsx
+----
+->JSX stands for JavaScript XML.
+->JSX allows us to write HTML in React.
+->JSX makes it easier to write and add HTML in React.
+
+
+
+
+Doubt
+-----
+->package.json,package-lock.json
+->npm,npx
+->export default
+
+
+
+interview Question
+------------------
+Q- why we will use npm?
+A-By using npm we can install all packages of node inside node_module folder.
+
