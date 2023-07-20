@@ -1,0 +1,15 @@
+Pure Component-> Pure Component will stop the rerendering process of unnecessary function
+
+Controlled Component->in react when we controlled our input field throw state this is called 
+controlled component.
+
+UnControlled Component-> in react when we controlled our input field throw DOM this is called 
+uncontrolled component.
+
+HOC-> a component taking a argument of another component as a props and return another component
+
+
+doubt
+------
+
+Child to parent 
